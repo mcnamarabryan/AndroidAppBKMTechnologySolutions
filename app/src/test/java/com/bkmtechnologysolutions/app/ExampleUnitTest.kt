@@ -1,4 +1,4 @@
-package com.example.bkmtechnologysolutions
+package com.bkmtechnologysolutions.app
 
 import org.junit.Test
 

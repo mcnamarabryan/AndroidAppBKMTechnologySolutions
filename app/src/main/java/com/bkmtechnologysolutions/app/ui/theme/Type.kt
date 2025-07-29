@@ -1,4 +1,4 @@
-package com.example.bkmtechnologysolutions.ui.theme
+package com.bkmtechnologysolutions.app.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
