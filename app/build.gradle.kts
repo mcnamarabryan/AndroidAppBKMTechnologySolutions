@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.bkmtechnologysolutions"
+    namespace = "com.bkmtechnologysolutions.app"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.bkmtechnologysolutions"
+        applicationId = "com.bkmtechnologysolutions.app"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
